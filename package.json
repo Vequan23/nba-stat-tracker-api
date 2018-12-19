@@ -1,0 +1,19 @@
+{
+  "name": "nba-stat-tracker-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vequan23/nba-stat-tracker-api.git"
+  },
+  "author": "Vequan Clark <vequanclark@yahoo.com> (https://vequan23.github.io/clarks-tech)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vequan23/nba-stat-tracker-api/issues"
+  },
+  "homepage": "https://github.com/Vequan23/nba-stat-tracker-api#readme"
+}
