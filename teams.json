@@ -1,0 +1,162 @@
+[
+    {
+        "abbr": "BOS",
+        "teamName": "celtics",
+        "fullTeamName": "boston-celtics"
+    },
+    {
+        "abbr": "BKN",
+        "teamName": "nets",
+        "fullTeamName": "brooklyn-nets"
+    },
+    {
+        "abbr": "NY",
+        "teamName": "knicks",
+        "fullTeamName": "new-york-knicks"
+    },
+    {
+        "abbr": "PHI",
+        "teamName": "76ers",
+        "fullTeamName": "philadelphia-76ers"
+    },
+    {
+        "abbr": "TOR",
+        "teamName": "Raptors",
+        "fullTeamName": "toronto-raptors"
+    },
+    {
+        "abbr": "CHI",
+        "teamName": "bulls",
+        "fullTeamName": "chicago-bulls"
+    },
+    {
+        "abbr": "CLE",
+        "teamName": "cavaliers",
+        "fullTeamName": "cleveland-cavaliers"
+    },
+    {
+        "abbr": "DET",
+        "teamName": "pistons",
+        "fullTeamName": "detroit-pistons"
+    },
+    {
+        "abbr": "IND",
+        "teamName": "pacers",
+        "fullTeamName": "indiana-pacers"
+    },
+    {
+        "abbr": "MIL",
+        "teamName": "bucks",
+        "fullTeamName": "milwaukee-bucks"
+    },
+    {
+        "abbr": "ATL",
+        "teamName": "Hawks",
+        "fullTeamName": "atlanta-hawks"
+    },
+    {
+        "abbr": "CHA",
+        "teamName": "hornets",
+        "fullTeamName": "charlotte-hornets"
+    },
+    {
+        "abbr": "CHA",
+        "teamName": "hornets",
+        "fullTeamName": "charlotte-hornets"
+    },
+    {
+        "abbr": "MIA",
+        "teamName": "heat",
+        "fullTeamName": "miami-heat"
+    },
+    {
+        "abbr": "CHA",
+        "teamName": "hornets",
+        "fullTeamName": "charlotte-hornets"
+    },
+    {
+        "abbr": "ORL",
+        "teamName": "magic",
+        "fullTeamName": "orlando-magic"
+    },
+    {
+        "abbr": "WAS",
+        "teamName": "wizards",
+        "fullTeamName": "washington-wizards"
+    },
+    {
+        "abbr": "DEN",
+        "teamName": "nuggets",
+        "fullTeamName": "denver-nuggets"
+    },
+    {
+        "abbr": "MIN",
+        "teamName": "timberwolves",
+        "fullTeamName": "minnesota-timberwolves"
+    },
+    {
+        "abbr": "OKC",
+        "teamName": "thunder",
+        "fullTeamName": "oklahoma-city-thunder"
+    },
+    {
+        "abbr": "POR",
+        "teamName": "trail blazers",
+        "fullTeamName": "portland-trail-blazers"
+    },
+    {
+        "abbr": "UTA",
+        "teamName": "jazz",
+        "fullTeamName": "utah-jazz"
+    },
+    {
+        "abbr": "GS",
+        "teamName": "warriors",
+        "fullTeamName": "golden-state-warriors"
+    },
+    {
+        "abbr": "LAC",
+        "teamName": "clippers",
+        "fullTeamName": "los-angeles-clippers"
+    },
+    {
+        "abbr": "LAL",
+        "teamName": "lakers",
+        "fullTeamName": "los-angeles-lakers"
+    },
+    {
+        "abbr": "PHO",
+        "teamName": "suns",
+        "fullTeamName": "phoenix-suns"
+    },
+    {
+        "abbr": "SAC",
+        "teamName": "kings",
+        "fullTeamName": "sacramento-kings"
+    },
+    {
+        "abbr": "DAL",
+        "teamName": "mavericks",
+        "fullTeamName": "dallas-mavericks"
+    },
+    {
+        "abbr": "HOU",
+        "teamName": "rockets",
+        "fullTeamName": "houston-rockets"
+    },
+    {
+        "abbr": "MEM",
+        "teamName": "grizzlies",
+        "fullTeamName": "memphis-grizzlies"
+    },
+    {
+        "abbr": "NO",
+        "teamName": "pelicans",
+        "fullTeamName": "new-orleans-pelicans"
+    },
+    {
+        "abbr": "SA",
+        "teamName": "spurs",
+        "fullTeamName": "san-antonio-spurs"
+    }
+]
